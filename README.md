@@ -51,5 +51,5 @@ This project applies the machine learning life cycle to the Adult Census Income 
 
 ## 📚 Tools/Technologies Used
 
-- **Language:** Python 3
-- **Tools:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook
+- **Language:** Python 3, Jupyter Notebook
+- **Tools:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
